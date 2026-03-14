@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# IDE folders
+.vscode/
+.idea/
+
+# Dependency directories
+bower_components/
+
+# Misc
+*.tgz
+*.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system files
+*.DS_Store
+
+# VSCode tasks
+.vscode/tasks.json
+
+# Terraform state
+*.tfstate
+*.tfstate.backup
+
+# Exemplo-01 e Exemplo-02 data
+exemplo-01/data/
+exemplo-02/src/assets/images/
+exemplo-02/src/assets/sounds/
+
+# DuckHunt-JS-parte01 e parte02 assets
+exemplo-02/DuckHunt-JS-parte01/src/assets/
+exemplo-02/DuckHunt-JS-parte02/src/assets/
